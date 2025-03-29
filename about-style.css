@@ -1,0 +1,40 @@
+/* General Styles */
+body {
+    font-family: 'Roboto', sans-serif;
+    line-height: 1.6;
+    margin: 0;
+    padding: 0;
+    background-color: #f7f8fa;
+}
+
+/* Header Styles */
+header {
+    background-color: #2c3e50;
+    color: white;
+}
+
+header h1 {
+    text-align: center;
+}
+
+nav ul {
+    list-style-type: none;
+    display: flex;
+    justify-content: center;
+}
+
+nav ul li {
+    margin-right: 15px;
+}
+
+nav ul li a {
+    color: white;
+}
+
+/* Main Content */
+main section {
+    background-color: white;
+}
+
+/* Footer Styles */
+footer { }
